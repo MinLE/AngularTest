@@ -1,4 +1,4 @@
-# angular-seed — the seed for AngularJS apps
+# AngularTest — base on angular-seed
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
@@ -58,7 +58,7 @@ to use whatever works for you.
 
 Requires [node.js](http://nodejs.org/), Karma (`sudo npm install -g karma`) and a local
 or remote browser.
-
+  
 * start `scripts/test.sh` (on windows: `scripts\test.bat`)
   * a browser will start and connect to the Karma server (Chrome is default browser, others can be captured by loading the same url as the one in Chrome or by changing the `config/karma.conf.js` file)
 * to run or re-run tests just change any of your source or test javascript files
