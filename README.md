@@ -1,6 +1,6 @@
-# AngularTest — base on angular-seed
+Angular For Test
+======
 
+Angular + Bootstrap + Firebase 随便玩一下
 
-## Contact
-
-For more information on AngularJS please check out http://angularjs.org/
+没教程见
